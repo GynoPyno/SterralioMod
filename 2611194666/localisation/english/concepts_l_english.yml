@@ -1,0 +1,126 @@
+﻿l_english:
+
+ ### Concepts
+ # Use §K for headers and §I for highlights in Concepts
+
+ GAME_CONCEPT_FORMAT:0 "§C$TEXT$§!"
+
+ dlc_requirement_string:0 "\n\n§PRichiesto il DLC:§!"
+ requires_leviathans:0 "$dlc_requirement_string$ §ILeviathans§!"
+ requires_apoc:0 "$dlc_requirement_string$ §IApocalypse§!"
+ requires_syn_dawn:0 "$dlc_requirement_string$ §ISynthetic Dawn§!"
+ requires_megacorp:0 "$dlc_requirement_string$ §IMegacorp§!"
+ requires_dis_stars:0 "$dlc_requirement_string$ §YDistant Stars Story Pack§!"
+
+ concept_shape:0 "Forma"
+ concept_galaxy_shape:0 "Forma Galassia"
+ concept_galaxy_shape_desc:0 "- §I$elliptical$:§! Una semplice galassia circolare di stelle uniformemente distribuite.\n- §I$ring$:§! Una galassia circolare con più spazio attorno al nucleo galattico.\n- §I$spiral$:§! Queste galassie hanno da due a sei bracci che si incurvano dal nucleo galattico.\n- §I$bar$:§! Una galassia divisa in due spessi bracci a spirale, con solo pochi collegamenti.\n- §I$starburst$:§! Diversi bracci paralleli vorticano fuori dal nucleo galattico.\n- §I$cartwheel$:§! Diversi bracci sottili creano questo ibrido tra una galassia a spirale e una galassia ad anello.\n- §I$spoked$:§! Questa galassia è divisa in "porzioni" che sono per lo più separate l'una dall'altra."
+
+ concept_advanced_empire:0 "Impero IA Avanzato"
+ concept_advanced_empires:0 "Imperi IA Avanzati"
+ concept_advanced_empires_desc:0 "Gli imperi AI avanzati partono con un vantaggio iniziale in termini di risorse, tecnologia e popolazione. Non ottengono alcun bonus aggiuntivo oltre a una posizione di partenza più forte."
+
+ concept_fallen_empire:0 "Impero Caduto"
+ concept_fallen_empires:0 "Imperi Caduti"
+ concept_fallen_empires_desc:0 "Gli Imperi Caduti sono antiche civiltà precursori che iniziano con tecnologie avanzate e potenti flotte, ma sono generalmente passivi. A volte possono avanzare richieste o offrire compiti a imperi minori.\n\nProvocare un Impero Caduto è rischioso, a meno che non siate sicuri della vostra capacità di sconfiggere un avversario impegnativo."
+
+ concept_fallen_empire_awakening:0 "Impero Caduto Risvegliato"
+ concept_awaken:0 "Risvegliato"
+ concept_awakened_empire:0 "$COUNTRY_AWAKENED_FALLEN_EMPIRE$"
+ concept_awakened_empires:0 "Imperi Risvegliati"
+ concept_awakened_empires_desc:0 "$COUNTRY_AWAKENED_FALLEN_EMPIRE_DESC$"
+
+ concept_marauder_empire:0 "Impero Predone"
+ concept_marauder_empires:0 "Imperi Predoni"
+ concept_marauder_empires_desc:0 "Gli Imperi Predoni sono civiltà spaziali che passano la maggior parte del tempo a combattere tra loro e a razziare i loro vicini. A volte possono chiedere tributi ad altri imperi."
+
+ concept_technology:0 "Tecnologia"
+ concept_technologies:0 "Tecnologie"
+ concept_technology_desc:0 "Le tecnologie sbloccate dalla ricerca sono uno dei modi principali per aumentare la forza del proprio impero in Stellaris e si dividono in tre campi di studio:\n\n$t$['concept_physics_research', £physics£ $concept_physics_research$]\n$t$['concept_society_research', £society£ $concept_society_research$]\n$t$['concept_engineering_research', £engineering£ $concept_engineering_research$]\n\nLe fonti più comuni dei §IPunti Ricerca§! sono da £pops£ §IPop§! che lavora in §ILaboratori di Ricerca§! o da §IStazioni di Ricerca§! costruite nello spazio sopra i depositi appropriati."
+
+ concept_tradition:0 "Tradizione"
+ concept_traditions:0 "Tradizioni"
+ concept_traditions_desc:1 "Le Tradizioni forniscono bonus a livello imperiale, organizzate in Alberi delle Tradizioni. Una Tradizione può essere selezionata ogni volta che un impero ha accumulato abbastanza $i_unity$ per farlo. Completando gli Alberi delli Tradizioni si sbloccano i ['concept_ascension_perks']." 
+
+ concept_ascension_perk:0 "Bonus d'Ascensione"
+ concept_ascension_perks:0 "Bonus d'Ascensione"
+ concept_ascension_perks_desc:0 "I Bonus d'Ascensione forniscono vantaggi significativi a livello imperiale che possono cambiare radicalmente il modo di giocare una partita."
+
+ concept_physics_research:0 "Ricerca Fisica"
+ concept_physics_research_desc:0 "La Ricerca Fisica è uno dei tre campi di studio che comprende specializzazioni come §IInformatica§!, §IManipolazione di CampI§!, e §IParticelle§!."
+ concept_society_research:0 "Ricerca Sociologica"
+ concept_society_research_desc:0 "La Ricerca Sociologica è uno dei tre campi di studio che comprende specializzazioni come §IBiologia§!, §IPolitica§!, e §IPsionica§!."
+ concept_engineering_research:0 "Ricerca Ingegneristica"
+ concept_engineering_research_desc:0 "La Ricerca Ingegneristica è uno dei tre campi di studio che comprende specializzazioni come §IIndustria§!, §IPropulsione§!, e §IViaggio Spaziale§!."
+
+ concept_preftl_civilizations:0 "Civiltà Pre-FTL"
+ concept_preftl_civilizations_desc:0 "Le civiltà pre-FTL sono società che non hanno ancora raggiunto il viaggio spaziale più veloce della luce. La loro tecnologia varia dall'Età della Pietra alla prima Era Spaziale e in genere non sono consapevoli della presenza di vita aliena."
+
+ concept_presapient_species:0 "Specie Pre-Sapiens"
+ concept_presapient_species_desc:0 "Le specie Pre-Sapiens sono creature estremamente intelligenti che non hanno ancora raggiunto la piena conoscenza. Con le tecnologie appropriate della ['concept_society_research', £society£ $concept_society_research$] possono essere innalzate alla sapienza o conservate in ['concept_alien_zoo',£building£ Zoo Alieni]."
+
+ concept_endgame_crisis:0 "Crisi Finale"
+ concept_endgame_crises:0 "Crisi Finali"
+ concept_endgame_crisis_desc:0 "Quando una partita a Stellaris ha raggiunto la fase avanzata, apparirà una Crisi Galattica. Queste crisi di fine gioco possono rappresentare una sfida estrema anche per i giocatori più esperti.\n\nLe crisi di fine gioco si verificheranno normalmente solo dopo aver raggiunto l'§IAnno Iniziale delle Crisi Finali§!."
+
+ concept_machine_uprising:0 "Rivolta delle Macchine"
+ concept_machine_uprising_desc:0 "La Rivolta delle macchine è una catena di eventi di metà gioco in cui i servitori robotici dotati di intelligenza artificiale possono tentare di ribellarsi all'impero creatore. Questo può portare alla formazione di una nuova §IIntelligenza Meccanica§! nella galassia.$requires_syn_dawn$"
+
+ concept_great_khan:0 "Gran Khan"
+ concept_great_khan_desc:0 "Il Gran Khan è una catena di eventi di metà gioco in cui le tribù disparate di un ['concept_marauder_empires', $concept_marauder_empire$] sono unite da un potente leader. Come Khanato dei Predoni, cercheranno di conquistare altri imperi e di costringerli a sottomettersi.$requires_apoc$"
+
+ concept_war_in_heaven:0 "Guerra dei Cieli"
+ concept_war_in_heaven_desc:0 "Due ['concept_fallen_empires'] che sono antichi nemici possono diventare ['concept_awakened_empires'] e combattere per la supremazia della galassia.$requires_leviathans$"
+
+ concept_hyperlane:0 "Iperlinea"
+ concept_hyperlanes:0 "Iperlinee"
+ concept_hyperlanes_desc:0 "Le Iperlinee sono condotti subspaziali naturali che si formano tra i pozzi gravitazionali delle stelle. L'uso dell'iperguida per viaggiare lungo le Iperlinee è il metodo principale del viaggio interstellare."
+
+ concept_gateway:0 "Portale"
+ concept_gateways:0 "Portali"
+ concept_gateways_desc:0 "I Portali sono imponenti strutture che creano condotti subspaziali, permettendo di viaggiare quasi istantaneamente verso qualsiasi altro Portale attivo della rete."
+
+ concept_wormhole_pairs:0 "Coppie di Wormhole"
+ concept_wormhole:0 "Wormhole"
+ concept_wormholes:0 "Wormhole"
+ concept_wormholes_desc:0 "I wormhole sono fratture naturali nello spazio-tempo. Una volta stabilizzati, consentono il passaggio a una posizione fissa."
+
+ concept_l_gate:0 "Portale-L"
+ concept_l_gates:0 "Portali-L"
+ concept_l_gates_desc:0 "Dei misteriosi Portali collegati a una rete subspaziale separata. Sembra che siano stati deliberatamente disattivati."
+
+ concept_unity:0 "Unità"
+ concept_unity_desc:0 "Una risorsa intangibile che rappresenta la coerenza interna e la volontà di una società.\n\nLe Unità vengono utilizzate per molte decisioni interne Imperiali, come l'assunzione di leader, il reinsediamento di Pop, l'attuazione della maggior parte degli ['concept_edicts'], e lo sblocco delle ['concept_traditions'].\n\nLe fonti più comuni di Unità provengono dalla felicità delle ['concept_factions'] o da £pops£ §IPop§! che lavora in edifici come §YUffici Amministrativi§!, §YMonumenti Autoctoni§!, o §YTempli§!."
+
+ concept_edict:0 "Editto"
+ concept_edicts:0 "Editti"
+ concept_edicts_desc:1 "Gli Editti sono decisioni a livello Imperiale che possono essere attuate spendendo risorse o pagando un mantenimento mensile. In genere costano $i_unity$ o sono pagati utilizzando il ['concept_edict_fund'], ma alcuni Editti possono costare altre risorse."
+
+ concept_edict_fund:0 "Fondo Editti"
+ concept_edict_fund_desc:1 "Il Fondo Editti è un fondo separato e statico di $i_unity$ per il Mantenimento dell'§IEditto§!.\n\nSe il mantenimento supera le dimensioni del Fondo, verranno utilizzate anche le $i_unity$ regolari."
+
+ concept_faction:0 "Fazione"
+ concept_factions:0 "Fazioni"
+ concept_factions_desc:0 "Le Fazioni sono gruppi di £pops£ §IPop§! con richieste condivise su come l'impero dovrebbe essere gestito.\n\n$POP_FACTIONS_APPROVAL_DESC$"
+
+ concept_xeno_compatibility:0 "$ap_xeno_compatibility$"
+ concept_xeno_compatibility_desc:0 "$allow_crossbreeding$\n\n§L$ap_xeno_compatibility_desc$§!"
+
+ concept_guaranteed_colonies:0 "$FE_GUARANTEED_COLONIES$"
+ concept_guaranteed_colonies_desc:0 "Controlla quanti pianeti abitabili della stessa classe del vostro pianeta natale sono garantiti per essere generati vicino al vostro sistema di partenza. Se si disattiva questa opzione, è possibile che non si trovino mondi abitabili vicino al proprio pianeta natale."
+
+ concept_policies:0 "Politiche"
+ concept_policy:0 "Politica"
+ concept_policies_desc:0 "Tra le altre questioni, le §IPolitiche§! definiscono l'atteggiamento del nostro £empire£ §IImpero§! verso gli altri imperi, come trattiamo i nostri £pops£ cittadini e quali comportamenti riteniamo accettabili."
+
+ concept_grand_admiral:0 "$DIFFICULTY_GRAND_ADMIRAL$"
+ concept_grand_admiral_desc:0 "$DIFFICULTY_GRAND_ADMIRAL_DESC$"
+
+ concept_archaeology_site: "Sito Archeologico"
+ concept_archaeology_site_desc: "I siti archeologici sono resti di antiche civiltà, relitti di battaglie e altri luoghi di interesse simile. Possono essere studiati dagli equipaggi delle §YNavi Scientifiche§! per scoprire i loro segerti."
+
+ concept_alien_zoo:0 "$building_xeno_zoo$"
+ concept_alien_zoo_desc:0 "Lavori da £mod_job_entertainer_add£ $job_entertainer$: §G+1§!\nLavori da £mod_job_xeno_zoo_keeper_add£ $job_xeno_zoo_keeper$: §G+1§!\nLavori da £mod_job_livestock_zoo_animal_add£ $job_livestock_zoo_animal$: §G+3§!\n\nI £job_xeno_zoo_keeper£ $job_xeno_zoo_keeper_plural$ trasformano $r_consumer_goods$ in §YPunti Ricerca§! £society£ e $r_amenities$.\nMaggior Produzione di $t$$r_amenities$ dalla £job_livestock_zoo_animal£ $job_livestock_zoo_animal$.\n$job_entertainer_effect_desc$\n$job_livestock_zoo_animal_effect_desc$\n\n§L$building_xeno_zoo_desc$§!"
+
+ concept_species_class: "Classe della Specie"
+ concept_species_class_desc: "Le Classi delle Specie descrivono un'ampia categoria di tipi di §ISpecie§!. Gli esempi includono Aviario, Rettiliano, Fungoide, etc."

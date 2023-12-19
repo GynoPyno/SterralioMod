@@ -1,0 +1,86 @@
+﻿l_english:
+
+ concept_technician: "$job_technician_plural$"
+ concept_technician_desc: "I $job_technician_plural$ producono $i_energy$.\n\n§L$job_technician_desc$§!"
+
+ concept_farmer: "$job_farmer_plural$"
+ concept_farmer_desc: "Gli $job_farmer_plural$ producono $i_food$.\n\n§L$job_farmer_desc$§!"
+
+ concept_miner: "$job_miner_plural$"
+ concept_miner_desc: "I $job_miner_plural$ producono $i_minerals$.\n\n§L$job_miner_desc$§!"
+
+ concept_roboticist: "$job_roboticist_plural$"
+ concept_roboticist_desc: "I $job_roboticist_plural$ trasformano $i_alloys$ in nuova £pop£ §IPop Robotica§!.\n\n§L$job_roboticist_desc$§!"
+
+ concept_archaeoengineers: "$job_archaeoengineers_plural$"
+ concept_archaeoengineers_desc: "Gli $job_archaeoengineers_plural$ trasformano $i_consumer_goods$ in $i_research$.\n\n§L$job_archaeoengineers_desc$§!"
+
+ concept_politician: "$job_politician_plural$"
+ concept_politician_desc: "I $job_politician_plural$ trasformano $i_consumer_goods$ in $i_unity$ e $i_amenities$.\n\n§L$job_politician_desc$§!"
+
+ concept_colonist: "$job_colonist_plural$"
+ concept_colonist_desc: "I $job_colonist_plural$ producono una piccola quantità di $i_food$ (o $i_minerals$) e $i_amenities$, e generano £defense_army£ §YArmate Difensive§!.\n\n§L$job_colonist_desc$§!"
+
+ concept_overlord_arborist: "$job_overlord_arborist_plural$"
+ concept_overlord_arborist_desc: "Gli $job_overlord_arborist_plural$ trasformano il $i_food$ dei Sudditi in $i_food$ per il Signore Supremo.\n\n§L$job_overlord_arborist_desc$§!"
+
+ concept_replicator: "$job_replicator_plural$"
+ concept_replicator_desc: "I $job_replicator_plural$ trasformano $i_alloys$ in nuova £pop£ §IPop Meccanica§!.\n\n§L$job_replicator_desc$§!"
+
+ concept_spawning_drone: "$job_spawning_drone_plural$"
+ concept_spawning_drone_desc: "I $job_spawning_drone_plural$ trasformano $i_food$ (o $i_minerals$) in £mod_planet_amenities_no_happiness_add£ §I$PLANET_AMENITIES_TITLE$§! e £mod_planet_pop_assembly_mult£ §I$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!.\n\n§L$job_spawning_drone_desc$§!"
+
+ concept_offspring_drone: "$job_offspring_drone_plural$"
+ concept_offspring_drone_desc: "I $job_offspring_drone_plural$ trasformano $i_food$ (o $i_minerals$) in £mod_planet_amenities_no_happiness_add£ §I$PLANET_AMENITIES_TITLE$§! e £mod_planet_pop_assembly_mult£ §I$MOD_PLANET_POP_ASSEMBLY_ORGANIC_ADD$§!, generano §I$offspring_defense_plural$§!, e forniscono un §G+10%§! £mod_planet_jobs_simple_drone_produces_mult£ dall'incremento della produzione del §I$pop_cat_simple_drone$§!.\n\n§L$job_offspring_drone_desc$§!"
+
+ concept_offspring_feeder: "$job_overlord_offspring_drone_feeder_plural$"
+ concept_offspring_feeder_desc: "Gli $job_overlord_offspring_drone_feeder_plural$ consumano $i_food$ (o $i_minerals$) forniscono l'accesso agli §I$offspring_defense_plural$§! e un incremento della £mod_planet_jobs_worker_produces_mult£ §IProduzione Risorse dei Lavoratori§!.\n\n§L$job_overlord_offspring_drone_feeder_desc$§!"
+
+ concept_squire: "$job_squire_plural$"
+ concept_squire_desc: "Gli $job_squire_plural$ forniscono $i_amenities$ e aumentano la §Iproduzione§! dei Lavori da £job_knight_commander£ §I$job_knight_commander$§! e £job_knight£ §I$job_knight$§!.\n\n§L$job_squire_desc$§!"
+
+ concept_knight: "$job_knight_plural$"
+ concept_knight_desc: "I $job_knight_plural$ trasformano $i_alloys$ in $i_unity$ e $i_research$, aumentano la $i_naval_capacity$ e generano $i_defense_armies$.\nCompletando le §YMissioni dei Cavalieri§! possono migliorare ulteriormente la propria produzione.\n\n§L$job_knight_desc$§!"
+
+ concept_knight_commander: "$job_knight_commander_plural$"
+ concept_knight_commander_desc: "I $job_knight_commander_plural$ trasformano $i_alloys$ in $i_unity$ e $i_amenities$, e aumentano la $i_naval_capacity$.\nCompletando le §YMissioni dei Cavalieri§! possono migliorare ulteriormente la propria produzione.\n\n§L$job_knight_commander_desc$§!"
+
+ concept_overlord_knight: "$job_overlord_knight_plural$"
+ concept_overlord_knight_desc: "I £job_knight£ $job_overlord_knight_plural$ trasformano $i_alloys$ in $i_stability$ e generano $i_defense_armies$ per il suddito, $i_unity$ e $i_research$ per il signore Supremo.\nCompletando le §YMissioni dei Cavalieri§! possono migliorare ulteriormente la propria produzione.\n\n§L$job_overlord_knight_desc$§!"
+
+ concept_healthcare: "$job_healthcare_plural$"
+ concept_healthcare_desc: "I $job_healthcare_plural$ trasformano $i_consumer_goods$ in $i_amenities$, £mod_pop_growth_speed£ §I$MOD_POP_GROWTH_SPEED$§!, £mod_planet_pop_assembly_organic_mult£ §I$MOD_PLANET_POP_ASSEMBLY_ORGANIC_MULT$§! e aumentano £mod_pop_environment_tolerance£ §IL'Abitabilità Planetaria§!.\n\n§L$job_healthcare_desc$§!"
+
+ concept_bureaucrat: "$job_bureaucrat_plural$"
+ concept_bureaucrat_desc: "I $job_bureaucrat_plural$ trasformano $i_consumer_goods$ in $i_unity$.\n\n§L$job_bureaucrat_desc$§!"
+
+ concept_clerk: "$job_clerk_plural$"
+ concept_clerk_desc: "Gli $job_clerk_plural$ producono $i_trade_value$ e $i_amenities$.\n\n§L$job_clerk_desc$§!"
+
+ concept_unifier: "$job_unifier_plural$"
+ concept_unifier_desc: "Gli $job_unifier_plural$ trasformano $i_consumer_goods$ e $i_food$ (o $i_minerals$) in $i_unity$ e $i_amenities$.\n\n§L$job_unifier_desc$§!"
+
+ concept_broken_shackles_scavenger: "$job_broken_shackles_scavenger_plural$"
+ concept_broken_shackles_scavenger_desc: "Gli $job_broken_shackles_scavenger_plural$ producono piccole quantità di $i_alloys$, $i_amenities$, e $i_research$.\n\n§L$job_broken_shackles_scavenger_desc$§!"
+
+ concept_low_tech_laborer: "$job_low_tech_laborer_plural$"
+ concept_low_tech_laborer_desc: "Gli $job_low_tech_laborer_plural$ trasformano $i_minerals$ in $i_consumer_goods$ e $i_alloys$\n\n§L$job_low_tech_laborer_desc$§!"
+
+ concept_low_tech_miner: "$job_low_tech_miner_plural$"
+ concept_low_tech_miner_desc: "I $job_low_tech_miner_plural$ producono $i_minerals$\n\n§L$job_low_tech_miner_desc$§!"
+
+ concept_low_tech_technician: "$job_low_tech_technician_plural$"
+ concept_low_tech_technician_desc: "Gli $job_low_tech_technician_plural$ producono $i_energy$\n\n§L$job_low_tech_technician_desc$§!"
+
+ concept_low_tech_farmer: "$job_low_tech_farmer_plural$"
+ concept_low_tech_farmer_desc: "I $job_low_tech_farmer_plural$ producono $i_food$\n\n§L$job_low_tech_farmer_desc$§!"
+
+ concept_low_tech_researcher: "$job_low_tech_researcher_plural$"
+ concept_low_tech_researcher_desc: "Gli $job_low_tech_researcher_plural$ trasformano $i_consumer_goods$ in $i_research$\n\n§L$job_low_tech_researcher_desc$§!"
+
+ concept_low_tech_bureaucrat: "$job_low_tech_bureaucrat_plural$"
+ concept_low_tech_bureaucrat_desc: "Gli $job_low_tech_bureaucrat_plural$ trasformano $i_consumer_goods$ in $i_unity$\n\n§L$job_low_tech_bureaucrat_desc$§!"
+
+ concept_low_tech_warrior: "$job_low_tech_warrior_plural$"
+ concept_low_tech_warrior_desc: "le $job_low_tech_warrior_plural$ diminuiscono la £crime£ §I$PLANET_CRIME_TITLE$§! e generano £defense_army£ §IArmate Difensive§!\n\n§L$job_low_tech_warrior_desc$§!"
+ 
