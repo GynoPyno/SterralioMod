@@ -269,7 +269,7 @@
  espionage.1050.name:0 "Chi Trova Tiene"
  espionage.1050.desc:2 "Un'agente particolarmente attento, operante nell'impero §Y[finderskeepers_country.GetName]§!, è venuto in possesso di buona parte di un §Hcodice di decrittazione [finderskeepers_country.GetAdj]§!. Uno sbadato $job_politician$ [finderskeepers_country.GetSpeciesAdj] ha perso il dispositivo mentre si trovava in viaggio.\n\nCiò non comporta molto in termini operativi, ma i nostri studi sul design unico del dispositivo hanno rivelato nuove intuizioni per il nostro approccio generale alla §Y$MOD_INTEL_DECRYPTION_ADD$§!."
 
- espionage.1060.name:0 "Comunicato Smarrito"
+ espionage.1060.name:0 "Comunicatore Smarrito"
  espionage.1060.desc:1 "Uno dei nostri $job_politician_plural$ su [capital_scope.GetName] ha incautamente smarrito una serie di dati sensibili, compreso un §Hcodice di decrittazione§!, la cui stessa esistenza al di fuori delle strutture governative è una grave violazione del protocollo.\n\nLe nostre autorità interne si stanno affannando ad aggiornare i sistemi di sicurezza, poiché è molto probabile che questi dati siano caduti in [root.species.GetHandNamePlural] ostili."
  espionage.1060.desc.corp:1 "Uno dei nostri [root.GetCorpRulerJobPlural] su [capital_scope.GetName] ha incautamente smarrito una serie di dati sensibili, compreso un §Hcodice di decrittazione§!, la cui stessa esistenza al di fuori delle strutture governative è una grave violazione del protocollo.\n\nLe nostre squadre di sicurezza si stanno affannando per modificare le procedure operative, poiché è molto probabile che questi dati siano stati recuperati dalla concorrenza."
  espionage.1060.a:0 "Licenziate questo incompetente, subito!"

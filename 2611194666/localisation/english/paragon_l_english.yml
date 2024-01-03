@@ -608,7 +608,7 @@
  ###########################
 
  paragon.550.name:0 "Morte di un Grande Leader"
- paragon.550.desc:2 "Il nostro grande §Y[From.GetTitle] [From.GetName]§! è morto all'età di [From.GetAge] mentre era al servizio del nostro impero. La gente chiede a gran voce un servizio commemorativo per onorare il contributo di questo leader su §Y[Root.GetName]§!. Un grande evento darà a tutti una chiusura e rafforzerà i nostri ideali."
+ paragon.550.desc:2 "Il nostro grande §Y[From.GetTitle] [From.GetName]§! è morto all'età di [From.GetAge] mentre era al servizio del nostro impero. La gente chiede a gran voce un servizio commemorativo per onorare il contributo di questo leader in §Y[Root.GetName]§!. Un grande evento darà a tutti una chiusura e rafforzerà i nostri ideali."
  paragon.550.a:0 "Lasciate che le masse piangano."
  paragon.550.b:1 "Una processione privata sarà sufficiente."
  paragon.550.c:1 "Non ha fatto nulla per meritare tali onori."
@@ -628,7 +628,7 @@
  paragon.551.a:1 "Un addio appropriato."
 
  paragon.552.name:1 "Un Funerale Privato"
- paragon.552.desc:1 "§Y[From.GetName]§! viene sepolto in una cerimonia privata con i loro familiari e colleghi più stretti. Il loro contributo a §Y[Root.GetName]§! era importante, ma non è il momento di fare spese esorbitanti."
+ paragon.552.desc:1 "§Y[From.GetName]§! viene sepolto in una cerimonia privata con i loro familiari e colleghi più stretti. Il loro contributo per §Y[Root.GetName]§! era importante, ma non è il momento di fare spese esorbitanti."
  paragon.552.a:1 "Un addio appropriato."
 
  paragon.553.name:1 "Una Morte Attesa"

@@ -308,8 +308,8 @@
 ## Academic Shenanigans (note only some of these strings refer to the intended event ID, preftl_operation.3040)
  preftl_operation.1100.name:0 "Attività Accademiche"
  preftl_operation.1100.desc:1 "Armati delle nostre conoscenze superiori, i nostri agenti su [from.target.capital_scope.GetName] si sono infiltrati nelle università locali, affermandosi come brillanti pensatori noti per le loro teorie rivoluzionarie. Il loro crescente successo, tuttavia, è stato accolto con sospetto dagli studiosi locali: molti si rifiutano di confrontarsi con loro, accusandoli di essere degli imbroglioni.\n\nL'interminabile battibecco accademico sta rendendo difficile per i nostri agenti diffondere nuove idee. Il nostro $role_spymaster$ chiede ulteriori istruzioni."
- preftl_operation.1100.a:0 "Eliminare la concorrenza."
- preftl_operation.1100.b:1 "Corrompere questi studiosi con qualcosa di radicale: un finanziamento."
+ preftl_operation.1100.a:0 "Eliminate la concorrenza."
+ preftl_operation.1100.b:1 "Corrompete questi studiosi con qualcosa di radicale: un finanziamento."
  preftl_operation.1100.c:0 "Lasciateli bisticciare. Potrebbe rivelarsi interessante."
 
  preftl_operation.1101.name:0 "Gli Incidenti Capitano..."

@@ -86,10 +86,10 @@
 
  action_astral_siphon: "Sifone Astrale"
  action_astral_siphon_desc: "Esiste un modo per districare il tessuto tra spazio e tempo. Costruendo dispositivi di estrazione attentamente calibrati, possiamo produrre una quantità costante di $astral_threads$."
- action_astral_siphon_unlock_tooltip_common: "Aumenta la capacità di immagazzinamento dei $ASTRAL_THREADS_ICON$ e fornisce §Y[GetAstralResearcherJobWithIcon]§!.\n[GetAstralResearcherEffect]"
+ action_astral_siphon_unlock_tooltip_common: "Aumenta la capacità di immagazzinamento dei $ASTRAL_THREADS_ICON$ e fornisce il §Y[GetAstralResearcherJobWithIcon]§!.\n[GetAstralResearcherEffect]"
  action_astral_siphon_unlock_tooltip_lvl1: "Sblocca l'Edificio planetario §Y$building_astral_siphon_1$§!.\n§Y$building_astral_siphon_1$§! $action_astral_siphon_unlock_tooltip_common$"
- action_astral_siphon_unlock_tooltip_lvl2: "Consente l'aggiornamento del §Y$building_astral_siphon_1$§! al §Y$building_astral_siphon_2$§!.\n§Y$building_astral_siphon_2$§! $action_astral_siphon_unlock_tooltip_common$"
- action_astral_siphon_unlock_tooltip_lvl3: "Consente l'aggiornamento del §Y$building_astral_siphon_2$§! al §Y$building_astral_siphon_3$§!.\n§Y$building_astral_siphon_3$§! $action_astral_siphon_unlock_tooltip_common$"
+ action_astral_siphon_unlock_tooltip_lvl2: "Consente l'aggiornamento del §Y$building_astral_siphon_1$§! a §Y$building_astral_siphon_2$§!.\n§Y$building_astral_siphon_2$§! $action_astral_siphon_unlock_tooltip_common$"
+ action_astral_siphon_unlock_tooltip_lvl3: "Consente l'aggiornamento del §Y$building_astral_siphon_2$§! a §Y$building_astral_siphon_3$§!.\n§Y$building_astral_siphon_3$§! $action_astral_siphon_unlock_tooltip_common$"
  building_astral_siphon_1: "Sifone Astrale"
  building_astral_siphon_1_desc: "Separare i Filamenti Astrali dal tessuto della realtà è un processo delicato. Queste strutture impediscono che il confine tra le realtà si sgretoli."
  building_astral_siphon_2: "Imbuto Astrale"
@@ -168,9 +168,9 @@
  situation_a_rift_in_space_monthly_change_tooltip: "$situation_monthly_change_tooltip_approaches_dependent$"
  situation_a_rift_in_space_desc: "Abbiamo scoperto una straordinaria frattura nello spazio-tempo. Forse, se spedessimo del tempo per studiare la sua natura, potremmo trovare un modo per esplorarla più approfonditamente. Non abbiamo modo di sapere cosa ci possa essere dall'altra parte."
  situation_a_rift_in_space_desc_riftworld_origin: "Il nostro popolo si è finalmente spinto abbastanza vicino quasi a toccare la singolarità nei nostri cieli.\n\nForse, se spedessimo del tempo per studiare la sua natura, potremmo trovare un modo per esplorarla più approfonditamente. Non abbiamo modo di sapere cosa ci possa essere dall'altra parte."
- situation_a_rift_in_space_standard: "Studiare Passivamente"
+ situation_a_rift_in_space_standard: "Studio Passivo"
  approach_situation_a_rift_in_space_standard_tt: "Non siamo in grado di spendere tante risorse così preziose. Osserviamo questo fenomeno da lontano."
- situation_a_rift_in_space_devote_research: "Impegnarsi nella Ricerca"
+ situation_a_rift_in_space_devote_research: "Dedicarsi alla Ricerca"
  approach_situation_a_rift_in_space_devote_research_tt: "Possiamo dedicare una quantità significativa di ricerche da parte dei nostri scienziati per svelare i segreti di questa frattura nello spazio-tempo."
  situation_a_rift_in_space_send_probes: "Inviare Sonde"
  approach_situation_a_rift_in_space_send_probes_tt: "Ogni sonda che inviamo nella frattura ci permette di comprendere meglio come violare i suoi confini. Siamo in grado di dedicare a questo scopo una certa quantità della nostra produzione di leghe."
@@ -194,7 +194,7 @@
  astral_situation.20.desc: "Abbiamo scoperto che per scivolare tra le pieghe dello spazio-tempo occorre un vascello perfettamente liscio.\n\nSiamo certi di poter realizzare un dispositivo simile, che abbiamo chiamato provvisoriamente "§Y$tech_rift_sphere$§!", se dedicheremo sufficiente tempo e ricerca potremmo scoprire cosa ci sia oltre questa anomalia spaziale."
 
  astral_planes.2005.name: "Tecnologia $tech_rift_sphere$ Sviluppata"
- astral_planes.2005.desc: "Abbiamo sviluppato una tecnologia che ci permetterà di scivolare tra le pieghe di una Frattura Astrale: §Y$tech_rift_sphere_plural$§!.\n\nCostruite con un nano-materiale altamente avanzato e perfettamente liscio, le Sfere sono in grado di scivolare senza attrito attraverso aree turbolente dello spazio e del tempo.\n\nPoiché non sappiamo dove arriveremo, ogni §Y$tech_rift_sphere$§! è collegata a un cavo di ancoraggio. Per riportarci indietro in caso di emergenza, il cavo è legato a una nave scientifica nel nostro universo."
+ astral_planes.2005.desc: "Abbiamo sviluppato una tecnologia che ci permetterà di scivolare tra le pieghe di una Frattura Astrale utilizzando le §Y$tech_rift_sphere_plural$§!.\n\nCostruite con un nano-materiale altamente avanzato e perfettamente liscio, le Sfere sono in grado di scivolare senza attrito attraverso aree turbolente dello spazio e del tempo.\n\nPoiché non sappiamo dove arriveremo, ogni §Y$tech_rift_sphere$§! è collegata a un cavo di ancoraggio. Per riportarci indietro in caso di emergenza, il cavo è legato a una nave scientifica nel nostro universo."
  astral_planes.2005.a: "Vediamo cosa riusciamo a trovare..."
 
  ASTRAL_RIFT_IN_SYSTEM: "Questo sitema contiene almeno una Frattura Astrale"
@@ -430,7 +430,7 @@
  origin_tooltip_riftworld_effects: "- Pianeta Natale: ['concept_archaeology_site'] ['concept_riftworld_digsite'] $NEW_LINE$- Probabilità che [ 'concept_astral_rift', $ASTRAL_RIFTS$ ] appaiano nei tuoi sistemi: §G+100%§!"
  START_SCREEN_RIFTWORLD: "Da sempre, la Grande Frattura si staglia nei cieli sopra [GetHomeWorldName]. Le leggende sostengono che il nostro passato sia intimamente legato a questa misteriosa fenditura celeste e a un antico sito d'impatto vicino alla nostra capitale.\n\nPer generazioni, il sito è stato venerato, ma poco compreso. Tuttavia, la recente attività sismica ha portato alla luce anomalie nel sottosuolo del cratere. Sono già in corso i preparativi per trivellare il suo nucleo. I pareri sono ancora discordanti su ciò che potremmo scoprire in quel luogo.\n\nÈ una semplice coincidenza che ciò sia avvenuto in concomitanza con l'avvento della tecnologia dell'Iperguida? Proprio quando ci avviciniamo al cielo, la nostra attenzione viene riportata al suolo. Forse ciò che si trova sotto la superficie di questo mondo è destinato ad aiutarci nel nostro viaggio verso le stelle. Forse può prepararci a ciò che si trova oltre la Frattura."
 
- astral_planes.2105.name: "Strana trasmissione"
+ astral_planes.2105.name: "Strana Trasmissione"
  astral_planes.2105.desc: "All'indomani dell'esplorazione della Frattura Astrale nel sistema §H[From.solar_system.GetName]§!, è stata ricevuta una misteriosa trasmissione.\n\nI nostri scienziati hanno stabilito che la sua origine proviene da oltre la frattura stessa, e sono stati in grado di tradurre solo poche parole."
 
  astral_planes.2110.name: "$astral_planes.2105.name$"
@@ -958,7 +958,7 @@
  ASTRAL_SCAR_INSTABILITY_DESC: "Anomalie gravitazionalmente instabili fuoriescono dalla §Y$pc_astral_scar$§! nel sistema [From.System.GetName], che si manifestano come singolarità che si diffondono in maniera continua nello spazio antistante prima di implodere violentemente. Le navi che attraversano questo sistema sono in gradi di evitarle, ma devono procedere con maggiore cautela.\n\nUn'indagine più approfondita di questa situazione potrebbe rivelare un modo per ripristinare l'agibilità dimensionale."
  instable_astral_scar_modifier: "$ASTRAL_SCAR_INSTABILITY$"
  astral_planes.6006.name: "Una Sutura nel Tempo (e nello Spazio)"
- astral_planes.6006.desc: "Dopo un'attenta analisi, confermiamo che la §Y$pc_astral_scar$§! nel sistema [From.System.GetName] è pericolosamente instabile e richiede un intervento immediato per evitare che si formino altre singolarità gravitazionali in questo sistema.\n\nLa massiccia emissione di §Y$astral_threads$§! potrebbe essere reindirizzata e utilizzta al fine di 'suturare' la fenditura. Questo riparerebbe la lacerazione dello spazio-tempo e probabilmente ci lascerebbe da questa parte una quantità significativa di materiale astrale.\n\nIn alternativa, potremmo utilizzare un massiccio carico di ordigni con l'idea di allargare la fenditura. È ipotizzabile che così facendo ci consentirebbe anche di poter pensare ad una esplorazione di ciò che potrebbe trovarsi dall'altra parte."
+ astral_planes.6006.desc: "Dopo un'attenta analisi, confermiamo che la §Y$pc_astral_scar$§! nel sistema [From.System.GetName] è pericolosamente instabile e richiede un intervento immediato per evitare che si formino altre singolarità gravitazionali in questo sistema.\n\nLa massiccia emissione di §Y$astral_threads$§! potrebbe essere reindirizzata e utilizzata al fine di 'suturare' la fenditura. Questo riparerebbe la lacerazione dello spazio-tempo e probabilmente ci lascerebbe da questa parte una quantità significativa di materiale astrale.\n\nIn alternativa, potremmo utilizzare un massiccio carico di ordigni con l'idea di allargare la fenditura. È ipotizzabile che così facendo ci consentirebbe anche di poter pensare ad una esplorazione di ciò che potrebbe trovarsi dall'altra parte."
  astral_planes.6006.a: "Suturatela tutto."
  astral_planes.6006.b: "Apritela del tutto."
  astral_planes.6007.name: "Ferita Cosmica"
@@ -970,8 +970,8 @@
 
  GREATEST_SHOW_CAT: "Rilevato un Oggetto Luminoso"
  anomaly_greatest_show_desc: "È stato rilevato un oggetto luminoso su un asteroide nel sistema §Y[from.System.GetName]§!.\n\nCostruito con materiali altamente avanzati, trasmette un flusso costante di onde radio su tutte le frequenze. I nostri scanner non indicano la presenza di composti esplosivi o volatili, quindi possiamo avvicinarci in tutta sicurezza per studiarlo ulteriormente."
- astral_planes.6010.name: "Il più Grande Spettacolo del Multiverso"
- astral_planes.6010.desc: "L'oggetto luminoso che abbiamo scoperto su questo asteroide è un annuncio pubblicitario.\n\nQuesto enorme schermo è sostenuto da un'infrastruttura meccanica che occupa l'interno dell'asteroide su cui è montato. L'asteroide stesso è sospeso in modo anomalo in un punto dello spazio, non influenzato dall'attrazione gravitazionale di alcun oggetto vicino.\n\nLa pubblicità fa riferimento a quello che chiama "Il più Grande Spettacolo del Multiverso". C'è un terminale che accetta crediti di energia per il teletrasporto diretto all'attrazione."
+ astral_planes.6010.name: "Il Più Grande Spettacolo del Multiverso"
+ astral_planes.6010.desc: "L'oggetto luminoso che abbiamo scoperto su questo asteroide è un annuncio pubblicitario.\n\nQuesto enorme schermo è sostenuto da un'infrastruttura meccanica che occupa l'interno dell'asteroide su cui è montato. L'asteroide stesso è sospeso in modo anomalo in un punto dello spazio, non influenzato dall'attrazione gravitazionale di alcun oggetto vicino.\n\nLa pubblicità fa riferimento a quello che chiama "Il Più Grande Spettacolo del Multiverso". C'è un terminale che accetta crediti di energia per il teletrasporto diretto all'attrazione."
  astral_planes.6010.a: "Pagate il biglietto."
  astral_planes.6010.b: "Riutilizziamolo a nostro uso e consumo."
  astral_planes.6010.c: "Smontiamolo per recuperare materiali."

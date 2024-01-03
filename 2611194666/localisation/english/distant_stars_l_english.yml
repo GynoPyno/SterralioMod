@@ -120,7 +120,7 @@
  ####################################
 
  distar.1.name:0 "Relitto Identificato"
- distar.1.desc:0 "L'equipaggio a bordo della [Root.GetName] segnala che il relitto vicino\na [From.GetName] sembra esser stato danneggiato da un'inaspettata tempesta solare geomagnetica. La nave da rifornimento ha subito danni irreparabili ai sistemi vitali ed ha vagato nello spazio fino a raggiungere il pozzo gravitazionale di [From.GetName]. Non ci sono sopravvissuti.\n\nLa stiva della nave contiene un notevole carico di minerali; tuttavia, il capitano della [Root.GetName] avverte che il design della nave potrebbe ricondurre a quello dell'Impero §Y[wreckage_owner.GetAdj]§!.\n\nÈ molto probabile che i minerali appartengano a §Y[wreckage_owner.GetName]§!, e potrebbero non prendere bene un'appropriazione indebita."
+ distar.1.desc:0 "L'equipaggio a bordo della [Root.GetName] segnala che il relitto vicino a [From.GetName] sembra esser stato danneggiato da un'inaspettata tempesta solare geomagnetica. La nave da rifornimento ha subito danni irreparabili ai sistemi vitali ed ha vagato nello spazio fino a raggiungere il pozzo gravitazionale di [From.GetName]. Non ci sono sopravvissuti.\n\nLa stiva della nave contiene un notevole carico di minerali; tuttavia, il capitano della [Root.GetName] avverte che il design della nave potrebbe ricondurre a quello dell'Impero §Y[wreckage_owner.GetAdj]§!.\n\nÈ molto probabile che i minerali appartengano a §Y[wreckage_owner.GetName]§!, e potrebbero non prendere bene un'appropriazione indebita."
  distar.1.a:0 "Ci servono quei minerali."
  distar.1.a.tooltip:0 "Ciò contrarierà l'Impero §Y[wreckage_owner.GetName]§!."
  distar.1.b:0 "Non rischieremo un alterco."
